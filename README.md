@@ -1,0 +1,2 @@
+# wmath
+C++ math library
